@@ -925,3 +925,8 @@ a {
     font-size: 1.6rem;
   }
 }
+
+/* Putting Components Together */
+.callout-section {
+  margin: 3rem;
+}
