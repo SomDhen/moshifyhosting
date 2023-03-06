@@ -259,7 +259,8 @@ a {
 
 .btn--accent {
   background: var(--color-accent);
-  color: #fff;
+  /* color: #fff; */
+  color: #1d1d1d;
 }
 
 .btn--accent:hover {
